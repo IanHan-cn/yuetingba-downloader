@@ -1,0 +1,6 @@
+cookies.txt
+books/
+downloads/
+*.part
+ytb-dl
+.DS_Store
